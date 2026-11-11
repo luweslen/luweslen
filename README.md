@@ -2,7 +2,7 @@
 
 Meu nome é **Luciano Weslen** e esse é um espaço para eu **compartilhar** os meus **estudos/projetos**
 
-- Atuo como **Desenvolvedor de Software Sênior** na [Bernoulli Educação](https://www.bernoulli.com.br/)
+- Atuo como **Desenvolvedor de Software Sênior**
 - **Analista e Desenvolvedor de Sistemas** formado pelo [IFPR](https://ifpr.edu.br)
   
 Sou **apaixonada** por **tecnologia** e como ela pode **ajudar as pessoas**
